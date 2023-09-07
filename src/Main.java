@@ -14,4 +14,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    // Press Ctrl+Shift+F10 to run the code again.
+    // Press Ctrl+F2 or click the Stop button in the gutter to stop debugging.
 }
